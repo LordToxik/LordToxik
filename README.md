@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm LordToxik</h1>
+<h1 align="center">Hi 👋, I'm Peter "LordToxik" Krojer</h1>
 <h3 align="center">A passionate full-stack developer from Slovakia</h3>
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **lordtoxik1@gmail.com**
+- 📫 How to reach me **lordtoxik1@gmail.com** or **krojerpeter01@gmail.com**
 
 - ⚡ Fun fact **I am funny big boy**
 
