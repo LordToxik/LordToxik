@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Peter "LordToxik" Krojer</h1>
 <h3 align="center">A passionate full-stack developer from Slovakia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lordtoxik&label=Profile%20views&color=64eb00&style=flat" alt="lordtoxik" /> </p>
+
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **lordtoxik1@gmail.com** or **krojerpeter01@gmail.com**
+- 📫 Reach me on **lordtoxik1@gmail.com or krojerpeter01@gmail.com**
 
 - ⚡ Fun fact **I am funny big boy**
 
